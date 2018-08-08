@@ -1,8 +1,8 @@
 {
-	"file": "https://raw.githubusercontent.com/JinWenjun/UpSetdata/master/shooting.csv",
+	"file": "http://vcg.github.io/upset/data/test/test.csv",
 	"name": "shooting",
 	"header": 0,
-	"separator": "Â£Â¬",
+	"separator": "£¬",
 	"skip": 0,
 	"meta": [
 		{ "type": "id", "index": 0, "name": "Name" }
