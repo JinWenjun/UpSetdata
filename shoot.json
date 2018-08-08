@@ -1,13 +1,13 @@
 {
-	"file": "http://vcg.github.io/upset/data/test/test.csv",
-	"name": "shooting",
+	"file": "https://raw.githubusercontent.com/JinWenjun/UpSetdata/master/shooting-nirK.csv",
+	"name": "shooting-nirK",
 	"header": 0,
-	"separator": "£¬",
+	"separator": ",",
 	"skip": 0,
 	"meta": [
 		{ "type": "id", "index": 0, "name": "Name" }
 	],
 	"sets": [
-		{ "format": "binary", "start": 1, "end": 3 }
+		{ "format": "binary", "start": 1, "end": 12 }
 	]
 }
